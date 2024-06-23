@@ -45,7 +45,7 @@ span {
 }
 
 .navbar a:hover {
-    background-color: rgb(212, 65, 231);
+    background-color: brown;
     color: white;
     transition: all 150ms ease-in-out;
     transform-origin: left;
